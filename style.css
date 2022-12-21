@@ -55,6 +55,7 @@ input[type=number] {
 
 .budget-container .app-title a{
     color: #D7DEDC;
+    font-size: 25px;
 }
 .budget-container .app-title a b{
     font-family: 'Gilroy Bold';
