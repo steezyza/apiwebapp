@@ -6,3 +6,4 @@ Wallet Manager is a web application that allows users to manage their income and
 
 This web application is developed using HTML, CSS and Vanilla JavaScript.
 
+(The web application has CRUD functionality using local storage. In part two of the build I will integrate a MySQL database.)
